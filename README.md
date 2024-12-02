@@ -7,13 +7,15 @@ Proiect final realizat in urma cursului de IR
 
 <details>
   <summary>General Description</summary>
-  ## Description:
-  ## Block Scheme:
+  
+  - Description:
+  - Block Scheme:
   TBD
 </details>
 
 <details>
   <summary>Hardware Design</summary>
+  List of components:
   TBD
 </details>
 
