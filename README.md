@@ -7,24 +7,32 @@ Proiect final realizat in urma cursului de IR
 
 <details>
   <summary>General Description</summary>
+  ## Description:
+  ## Block Scheme:
+  TBD
 </details>
 
 <details>
   <summary>Hardware Design</summary>
+  TBD
 </details>
 
 <details>
   <summary>Software Design</summary>
+  TBD
 </details>
 
 <details>
   <summary>Results</summary>
+  TBD
 </details>
 
 <details>
   <summary>Conclusions</summary>
+  TBD
 </details>
 
 <details>
   <summary>Resources</summary>
+  TBD
 </details>
