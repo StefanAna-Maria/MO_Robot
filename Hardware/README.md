@@ -1,4 +1,5 @@
 ## Description
+
 ## Bill of Components
 
 | Quantity | Material                                   | Link to shop  										                                                                         | Datasheet     |
@@ -13,4 +14,6 @@
 |    1     | PCB board                                  | [SHOP LINK](https://www.sigmanortec.ro/Placa-PCB-prototipare-fata-dubla-7x9cm-p125747328)               								 |       X       |
 
 ## Block Scheme
+TBD
 ## Circuit Diagram
+TBD
