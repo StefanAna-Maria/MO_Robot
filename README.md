@@ -25,9 +25,8 @@ The MO Robot is designed as a faithful representation of the beloved character f
 - Display eye animations using the LED matrix.
 - Be controlled via a controller or remote, allowing for interactive operation.
 
-### Additionally, MO will be programmed to interact with another robot, F.O.C.A., in two unique ways:
+### Additionally, MO will be programmed to interact with another robot, F.O.C.A.:
 
-- Series intro song??
 - Dialogue Mode: MO will engage in conversations with F.O.C.A.
 
 </details>
@@ -43,7 +42,13 @@ The MO Robot is designed as a faithful representation of the beloved character f
 <details>
   <summary>Hardware Design</summary>
   List of components:
-  TBD
+
+  - 1X ESP32 WROOM
+  - 2X LED Matrix
+  - 4X Micro Servomotor
+  - 1X Miniature Amplifier Module
+  - 1X Speaker
+  - PCB Boards
 </details>
 
 <details>
