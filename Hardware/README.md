@@ -2,9 +2,9 @@
 
 This table provides a clear mapping of pins and connections for my ESP32-WROOM-32D project.
 
-| **Component**               | **Pin**          | **ESP32 Pin / Other**       |
-|-----------------------------|------------------|-----------------------------|
-| **LED Matrix Module 1**     | VCC             | 3.3V                        |
+| **Component**               | **Pin**         | **ESP32 Pin / Other**       |
+|-----------------------------|-----------------|-----------------------------|
+| **LED Matrix Module 1**     | VCC             | 5V                          |
 |                             | GND             | GND                         |
 |                             | DIN             | GPIO 23                     |
 |                             | CS              | GPIO 5                      |
@@ -12,11 +12,11 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 | **LED Matrix Module 2**     | DIN (from DOUT) | Matrix 1 **DOUT**           |
 |                             | VCC             | 3.3V                        |
 |                             | GND             | GND                         |
-| **Micro Servo 1 (SG90)**     | VCC             | Step Down **OUT+**          |
+| **Micro Servo 1 (SG90)**    | VCC             | Step Down **OUT+**          |
 |                             | GND             | GND                         |
 |                             | Signal          | GPIO 13                     |
 | **Micro Servo 2**           | Signal          | GPIO 12                     |
-| **Micro Servo 3**           | Signal          | GPIO 14                     |
+| **Micro Servo 3**           | Signal          | GPIO 28                     |
 | **Micro Servo 4**           | Signal          | GPIO 27                     |
 | **PAM8403 Amplifier**       | VCC             | Step Down **OUT+**          |
 |                             | GND             | GND                         |
@@ -32,8 +32,8 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 ---
 
 ### Notes
-1. **Ground Connections**: Ensure all components share a **common ground** for proper operation.
-2. **Power Supply**: Use the Step-Down Module to provide a steady 5V for servos and PAM8403, and 3.3V for the ESP32 and LED matrices.
+1. **Ground Connections**: All components share a **common ground** for proper operation.
+2. **Power Supply**: Used the Step-Down Module to provide a steady 5V for servos and PAM8403, and 3.3V for the ESP32 and LED matrices.
 
 ## Bill of Components
 
