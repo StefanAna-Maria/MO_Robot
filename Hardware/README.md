@@ -92,4 +92,5 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 ## Block Scheme
 TBD
 ## Circuit Diagram
-TBD
+![Screenshot 2024-12-17 205839](https://github.com/user-attachments/assets/e362e80a-5fd3-41f1-882b-13bd58c8bb9a)
+
