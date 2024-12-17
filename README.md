@@ -60,9 +60,20 @@ The MO Robot is designed as a faithful representation of the beloved character f
   For a detailed description of every component used in this project please check [HERE](https://github.com/StefanAna-Maria/MO_Robot/blob/main/Hardware/README.md)
   
   ## Block Diagram:
+
+  
   ## Electrical Diagram:
+
+  
   ## Complete Circuit:
+  TBD (I encountered issues regarding the delivery of some components)
+  
   ## Images and Videos of the physical components:
+  ### Arm prototype video:
+  
+  ### Test image and video for the LED Matrix:
+  
+  TBD
 </details>
 
 <details>
