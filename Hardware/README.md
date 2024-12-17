@@ -1,5 +1,49 @@
 ## Description
+Here you can find a description of each component's purpose and its pin connections used in building my robot, MO.
 
+<details>
+  <summary>ESP32-WROOM-32D</summary>
+
+  The ESP32-WROOM-32D acts as the central control unit of the robot, chosen for its compact design, powerful processing capabilities, and integrated Bluetooth connectivity. Bluetooth is essential for remotely controlling the robot’s movements via a virtual remote, as well as for facilitating communication with another robot using the same ESP32 platform. The board powers peripheral components, including servos, an LED matrix, and an amplifier, with all components sharing a common ground. Specific GPIO pins are used to connect modules and peripherals for proper operation.
+</details>
+
+<details>
+  <summary>MAX7219 LED Matrix</summary>
+
+  The MAX7219 LED Matrix is used to create dynamic animations for the robot's eyes, adding personality by simulating blinking and movement. This module requires a data line (DIN) for receiving commands, connected to GPIO 23 of the ESP32. The chip select (CS) pin is connected to GPIO 5, while the clock (CLK) signal is managed by GPIO 18. Power is supplied through the 5V pin, ensuring compatibility with the ESP32’s voltage output. The second matrix is cascaded by connecting its DIN input to the first matrix's DOUT, sharing the same VCC, GND, and signal pins.
+</details>
+
+<details>
+  <summary>SG90 Micro Servo Motors</summary>
+
+  The project utilizes four SG90 micro servos to control the robot’s physical movements. Two servos are assigned to move the robot’s arms forward and backward, while the other two operate the mouth to simulate speech. Each servo’s Signal pin is connected to a dedicated ESP32 GPIO pin: GPIO 13, GPIO 12, GPIO 28, and GPIO 27, respectively. The servos are powered via a regulated 5V output from the DC-DC Step Down Module, ensuring stable voltage and avoiding current fluctuations. The ground (GND) of all servos is tied to the common GND of the circuit.
+</details>
+
+<details>
+  <summary>PAM8403 Miniature Amplifier Module</summary>
+
+  The PAM8403 amplifier module enhances the audio output for the robot’s speech system. Its L-IN/R-IN inputs are connected to GPIO 25 on the ESP32, which transmits the audio signal. Power for the amplifier is provided through the Step Down Module’s OUT+, delivering a steady 5V. The amplifier outputs sound through a connected speaker, with terminals wired to the amplifier’s speaker outputs. A shared GND ensures smooth operation and minimizes noise in the audio output.
+</details>
+
+<details>
+  <summary>Speaker</summary>
+
+  The speaker emits sound corresponding to the robot's speech, made possible through the PAM8403 amplifier module. The speaker terminals are directly connected to the amplifier’s output pins. The amplifier ensures sufficient audio gain, while the ESP32 provides the signal through GPIO 25. This combination allows the speaker to produce clear and amplified sound.
+</details>
+
+<details>
+  <summary>DC-DC Step Down Mini-360 Module</summary>
+
+  The DC-DC Step Down Mini-360 module regulates voltage from the 18650 Li-ion batteries. The battery’s positive terminal is connected to the IN+ pin, while the negative terminal connects to IN-. The module outputs a stable 5V through the OUT+ pin, supplying power to the servos and PAM8403 amplifier. The OUT- is connected to the common ground of the system, ensuring consistent and safe voltage distribution for all components.
+</details>
+
+<details>
+  <summary>18650 Li-ion Batteries</summary>
+
+  I used two 18650 Li-ion batteries (3.7V, 2200mAh) to act as the power source for the entire system. Their combined voltage is regulated by the DC-DC Step Down Module, which outputs 5V for the LED matrix, servos and amplifier. The batteries positive and negative terminals connect to the IN+ and IN- pins of the Step Down module, providing continuous and portable power for the robot.
+</details>
+
+## Table of PIN connections
 This table provides a clear mapping of pins and connections for my ESP32-WROOM-32D project.
 
 | **Component**               | **Pin**         | **ESP32 Pin / Other**       |
