@@ -72,9 +72,8 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 
 ---
 
-### Notes
+### Notes:
 1. **Ground Connections**: All components share a **common ground** for proper operation.
-2. **Power Supply**: Used the Step-Down Module to provide a steady 5V for servos and PAM8403, and 3.3V for the ESP32 and LED matrices.
 
 # Bill of Components
 
