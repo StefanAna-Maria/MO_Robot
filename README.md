@@ -94,5 +94,15 @@ The MO Robot is designed as a faithful representation of the beloved character f
 
 <details>
   <summary><h2>Resources</h2></summary>
-  TBD
+
+  - [ESP32-WROOM-32D DATASHEET](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)
+  - [LED Matrix Module MAX7219 DATASHEET](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf)
+  - [Micro Servomotor SG90 90° DATASHEET](https://www.friendlywire.com/projects/ne555-servo-safe/SG90-datasheet.pdf)
+  - [Speaker DATASHEET](https://www.farnell.com/datasheets/2827522.pdf)
+  - [Miniature Amplifier Module PAM8403 DATASHEET](https://www.mouser.com/datasheet/2/115/PAM8403-247318.pdf)
+  - [DC-DC Step Down Mini-360 Module DATASHEET](https://www.matts-electronics.com/wp-content/uploads/2018/06/MINI-360.pdf)
+
+  ![Screenshot 2024-12-12 194316](https://github.com/user-attachments/assets/111ab6f2-bc48-4e6e-a156-49e5d9ca6c17)
+
+  
 </details>
