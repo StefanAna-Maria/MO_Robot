@@ -54,9 +54,10 @@ The MO Robot is designed as a faithful representation of the beloved character f
   - PCB Boards
   
   ## General Description:
-
+  The ESP32-WROOM-32D serves as the main control unit for my project due to its compact design and built-in Bluetooth connectivity, enabling wireless control of the robot via a virtual remote and communication with other ESP32-based robots. The MAX7219 LED Matrix is used to display animations, specifically for creating expressive eye movements like blinking, giving the robot, MO, a dynamic personality. Four SG90 Micro Servo Motors control the robot's movements: two for the arms (moving forward and backward) and two for simulating mouth movements when the robot speaks. A PAM8403 Miniature Amplifier Module amplifies the sound output to a connected speaker, which plays the robot’s speech. Power is provided by two 18650 Li-ion Batteries (3.7V, 2200mAh), regulated via a DC-DC Step Down Module to ensure safe and stable voltage for all components. All components are carefully wired to specific GPIO pins on the ESP32 to ensure functionality, with a common ground setup and proper voltage regulation for stable operation.
+  
   ---
-  For a detailed description of every component used in this project please check [HERE]()
+  For a detailed description of every component used in this project please check [HERE](https://github.com/StefanAna-Maria/MO_Robot/blob/main/Hardware/README.md)
   
   ## Block Diagram:
   ## Electrical Diagram:
