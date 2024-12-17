@@ -65,7 +65,7 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 |                             | Speaker Output  | Speaker terminals           |
 | **DC-DC Step Down**         | IN+             | Battery Positive            |
 |                             | IN-             | Battery GND                 |
-|                             | OUT+            | Servos / PAM8403 VCC        |
+|                             | OUT+            | Servos / PAM8403 / LED Matrix Module VCC        |
 |                             | OUT-            | Common GND                  |
 | **18650 Batteries**         | Positive        | Step Down **IN+**           |
 |                             | Negative        | Step Down **IN-**           |
