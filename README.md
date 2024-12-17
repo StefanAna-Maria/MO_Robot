@@ -41,7 +41,8 @@ The MO Robot is designed as a faithful representation of the beloved character f
 
 <details>
   <summary>Hardware Design</summary>
-  ### List of components:
+  
+  ## List of components:
 
   - 1X ESP32 WROOM
   - 1X LED Matrix
@@ -51,6 +52,16 @@ The MO Robot is designed as a faithful representation of the beloved character f
   - DC-DC Step Down Mini-360 Module
   - 2X LI-ION Well 18650 Battery (3.7V, 2200 mAh)
   - PCB Boards
+  
+  ## General Description:
+
+  ---
+  For a detailed description of every component used in this project please check [HERE]()
+  
+  ## Block Diagram:
+  ## Electrical Diagram:
+  ## Complete Circuit:
+  ## Images and Videos of the physical components:
 </details>
 
 <details>
