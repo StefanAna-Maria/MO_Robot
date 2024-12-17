@@ -36,7 +36,8 @@ The MO Robot is designed as a faithful representation of the beloved character f
   
   - Description:
   - Block Scheme:
-  TBD
+  ![Screenshot 2024-12-17 211839](https://github.com/user-attachments/assets/44acc22f-ad5b-4283-95f1-bf062ffcd20f)
+
 </details>
 
 <details>
@@ -60,8 +61,8 @@ The MO Robot is designed as a faithful representation of the beloved character f
   For a detailed description of every component used in this project please check [HERE](https://github.com/StefanAna-Maria/MO_Robot/blob/main/Hardware/README.md)
   
   ## Block Diagram:
+  ![Screenshot 2024-12-17 211839](https://github.com/user-attachments/assets/c9596389-4a8e-40e2-843a-411d9e57200c)
 
-  
   ## Electrical Diagram:
  ![Screenshot 2024-12-17 205839](https://github.com/user-attachments/assets/b9d76cd3-2725-41ec-b41a-44b96dac35ec)
 
