@@ -63,8 +63,8 @@ The MO Robot is designed as a faithful representation of the beloved character f
 
   
   ## Electrical Diagram:
+ ![Screenshot 2024-12-17 205839](https://github.com/user-attachments/assets/b9d76cd3-2725-41ec-b41a-44b96dac35ec)
 
-  
   ## Complete Circuit:
   TBD (I encountered issues regarding the delivery of some components)
   
