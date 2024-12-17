@@ -90,7 +90,8 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 |    1     | PCB board                                  | [SHOP LINK](https://www.sigmanortec.ro/Placa-PCB-prototipare-fata-dubla-7x9cm-p125747328)               								 |       X       |
 
 ## Block Scheme
-TBD
+![Screenshot 2024-12-17 211839](https://github.com/user-attachments/assets/f29907ed-2359-46bc-a141-3234aebea571)
+
 ## Circuit Diagram
 ![Screenshot 2024-12-17 205839](https://github.com/user-attachments/assets/e362e80a-5fd3-41f1-882b-13bd58c8bb9a)
 
