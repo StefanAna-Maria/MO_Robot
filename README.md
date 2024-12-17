@@ -102,7 +102,10 @@ The MO Robot is designed as a faithful representation of the beloved character f
   - [Miniature Amplifier Module PAM8403 DATASHEET](https://www.mouser.com/datasheet/2/115/PAM8403-247318.pdf)
   - [DC-DC Step Down Mini-360 Module DATASHEET](https://www.matts-electronics.com/wp-content/uploads/2018/06/MINI-360.pdf)
 
+  <details>
+    <summary><h3>ESP32 Pinout Image</h3></summary>
+  
   ![Screenshot 2024-12-12 194316](https://github.com/user-attachments/assets/111ab6f2-bc48-4e6e-a156-49e5d9ca6c17)
-
+  </details>
   
 </details>
