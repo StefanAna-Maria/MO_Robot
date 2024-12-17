@@ -1,8 +1,8 @@
 # MO_Robot
-Final project developed for the IR course.
+### Final project developed for the IR course.
 
 <details>
-  <summary>Introduction</summary>
+  <summary><h2>Introduction</h2></summary>
 
 ## Ideea and Motivation:
 The MO Robotics Project is inspired by the character MO from the animated series "Robotzi" by Creative Monkeys. MO is a quirky, humorous robot who works alongside his friend F.O.C.A in an experimental laboratory. In the series, MO is the more laid-back and scatterbrained of the duo, often causing trouble that F.O.C.A is left to fix. My project aims to bring MO to life by building a functional robot that captures his playful personality and clumsy charm.
@@ -32,7 +32,7 @@ The MO Robot is designed as a faithful representation of the beloved character f
 </details>
 
 <details>
-  <summary>General Description</summary>
+  <summary><h2>General Description</h2></summary>
   
   - Description:
   - Block Scheme:
@@ -41,7 +41,7 @@ The MO Robot is designed as a faithful representation of the beloved character f
 </details>
 
 <details>
-  <summary>Hardware Design</summary>
+  <summary><h2>Hardware Design</h2></summary>
   
   ## List of components:
 
@@ -78,21 +78,21 @@ The MO Robot is designed as a faithful representation of the beloved character f
 </details>
 
 <details>
-  <summary>Software Design</summary>
+  <summary><h2>Software Design</h2></summary>
   TBD
 </details>
 
 <details>
-  <summary>Results</summary>
+  <summary><h2>Results</h2></summary>
   TBD
 </details>
 
 <details>
-  <summary>Conclusions</summary>
+  <summary><h2>Conclusions</h2></summary>
   TBD
 </details>
 
 <details>
-  <summary>Resources</summary>
+  <summary><h2>Resources</h2></summary>
   TBD
 </details>
