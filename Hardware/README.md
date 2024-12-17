@@ -48,14 +48,11 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 
 | **Component**               | **Pin**         | **ESP32 Pin / Other**       |
 |-----------------------------|-----------------|-----------------------------|
-| **LED Matrix Module 1**     | VCC             | 5V                          |
+| **LED Matrix Module**       | VCC             | 5V                          |
 |                             | GND             | GND                         |
 |                             | DIN             | GPIO 23                     |
 |                             | CS              | GPIO 5                      |
 |                             | CLK             | GPIO 18                     |
-| **LED Matrix Module 2**     | DIN (from DOUT) | Matrix 1 **DOUT**           |
-|                             | VCC             | 3.3V                        |
-|                             | GND             | GND                         |
 | **Micro Servo 1 (SG90)**    | VCC             | Step Down **OUT+**          |
 |                             | GND             | GND                         |
 |                             | Signal          | GPIO 13                     |
