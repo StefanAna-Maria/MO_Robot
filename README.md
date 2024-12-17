@@ -41,13 +41,15 @@ The MO Robot is designed as a faithful representation of the beloved character f
 
 <details>
   <summary>Hardware Design</summary>
-  List of components:
+  ### List of components:
 
   - 1X ESP32 WROOM
-  - 2X LED Matrix
+  - 1X LED Matrix
   - 4X Micro Servomotor
-  - 1X Miniature Amplifier Module
+  - 1X Miniature Amplifier Module PAM8403
   - 1X Speaker
+  - DC-DC Step Down Mini-360 Module
+  - 2X LI-ION Well 18650 Battery (3.7V, 2200 mAh)
   - PCB Boards
 </details>
 
