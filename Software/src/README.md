@@ -34,12 +34,12 @@
 <details>
   <summary><h2>Demo Videos</h2></summary>
 
-  ## Ochi
+  ## Eyes
   TBD
-  ## Brate
+  ## Arms
   TBD
-  ## Gura
+  ## Mouth
   TBD
-  ## Comunicare
+  ## Comunication
   TBD
 </details>
