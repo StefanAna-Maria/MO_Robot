@@ -75,7 +75,7 @@ This table provides a clear mapping of pins and connections for my ESP32-WROOM-3
 ### Notes:
 1. **Ground Connections**: All components share a **common ground** for proper operation.
 
-# Bill of Components
+# Bill of Materials
 
 | Quantity | Material                                   | Link to shop  										                                                                         | Datasheet     |
 |----------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
